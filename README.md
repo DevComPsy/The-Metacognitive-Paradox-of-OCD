@@ -1,5 +1,5 @@
 # The-Metacognitive-Paradox-of-OCD
-Loosen et al. (under review) The metacognitive paradox of OCD: confidence is globally reduced but shows increased sensitivity to local evidence
+Loosen et al. (in preparation) The metacognitive paradox of OCD: confidence is globally reduced but shows increased sensitivity to local evidence
 
 ## Overview
 This repository contains the data analysis and model implementation for a study conducted at the University College London (UCL) and Yale School of Medicine.
